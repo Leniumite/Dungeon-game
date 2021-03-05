@@ -1,0 +1,2 @@
+D:\projVS\cocos2d-x-groupe-2\proj.win32\Debug.win32\cpp2.exe
+D:\projVS\cocos2d-x-groupe-2\proj.win32\Debug.win32\cpp2.pdb
